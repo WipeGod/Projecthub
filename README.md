@@ -1,4 +1,4 @@
-# BetterSoftware Internship Project
+# ProjectHub
 
 This project is a simple React (Next.js) frontend integrated with a Flask backend API. It is designed as an assessment project for an internship at BetterSoftware company.
 
